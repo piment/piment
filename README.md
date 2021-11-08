@@ -6,9 +6,9 @@ Technologies I love :
 - SQL and NoSQL Database
 - Python (and Flask)
 
-####👨‍🎓 I'm currently studying FullStack development at "Wild Code School" (Toulouse, 31)
+#### 👨‍🎓 I'm currently studying FullStack development at "Wild Code School" (Toulouse, 31)
 
-####👯 I you're a student too, feel free to contact me at "romain at mura dot io" if you want to collaborate on any side project.
+#### 👯 I you're a student too, feel free to contact me at "romain at mura dot io" if you want to collaborate on any side project.
 
 
 <!--
