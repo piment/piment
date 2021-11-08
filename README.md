@@ -8,7 +8,7 @@ Technologies I love :
 
 #### 👨‍🎓 I'm currently studying FullStack development at "Wild Code School" (Toulouse, 31)
 
-#### 👯 I you're a student too, feel free to contact me at "romain at mura dot io" if you want to collaborate on any side project.
+#### 👯 If you're a student too, feel free to contact me at "romain at mura dot io" if you want to collaborate on any side project.
 
 
 <!--
