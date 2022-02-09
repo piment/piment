@@ -1,5 +1,7 @@
 
-### 🧑 Hi, I'm Romain MURA, another (french) web developper.
+## 🧔‍♂️ Hi, I'm Romain MURA, another (french) web developper.
+I'm actually working on a side project : [Système de jeu Zcorps pour Foundry VTT](https://github.com/piment/zcorps-foundryvtt)
+
 Technologies I love :
 - HTML/CSS
 - Javascript (Vanilla, React, Vue.js, Node.js)
