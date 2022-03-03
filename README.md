@@ -11,8 +11,11 @@ Technologies I love :
 #### 👨‍🎓 I'm currently studying FullStack development at "Wild Code School" (Toulouse, 31)
 
 #### 👯 If you're a student too, feel free to contact me at "romain at mura dot io" if you want to collaborate on any side project.
+---
 
+If you like my work, you can buy me a beer to show your support!
 
+<a href="https://www.buymeacoffee.com/romainmura"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=romainmura&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 <!--
 **piment/piment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
